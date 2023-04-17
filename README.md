@@ -1,4 +1,4 @@
-# World_Weather_Analysis
+# World-Weather-Analysis
 ## Overview
 The main objective of the project was to generate a random set of cities and their current weather information to determine an ideal temperate geographic location and hotel accessibility to create an itinerary for a vacation. 
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/95573310/210630077-bba7db09-eb17-471e-b013-c5287431d521.png)
